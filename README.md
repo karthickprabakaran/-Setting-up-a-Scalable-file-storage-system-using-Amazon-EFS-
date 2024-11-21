@@ -1,7 +1,7 @@
 # SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
 
-### REGISTER NUMBER: 212222100024
-### NAME : LOKESH RAHUL V V
+### REGISTER NUMBER: 212222100021
+### NAME : Karthick P
 
  
 ## AIM :
@@ -69,15 +69,16 @@ cat file  # Verify shared access by reading content created in Instance 1
 
 ### Both EC2 instances showing EFS mounting. 
 
-![image](https://github.com/user-attachments/assets/9dc312b2-d310-4d5f-afa6-6c572e23208b)
-![Screenshot 2024-08-30 092006](https://github.com/user-attachments/assets/58ee219a-0529-4de8-8df7-32c40aa441f9)
+![image](https://github.com/karthickprabakaran/-Setting-up-a-Scalable-file-storage-system-using-Amazon-EFS-/blob/main/1.png)
+![image](https://github.com/karthickprabakaran/-Setting-up-a-Scalable-file-storage-system-using-Amazon-EFS-/blob/main/12.png)
+
 
 ### The creation of a file on Instance 1.
-![image](https://github.com/user-attachments/assets/f219dd0d-08e4-45f8-a339-80661b7170a2)
+![image](https://github.com/karthickprabakaran/-Setting-up-a-Scalable-file-storage-system-using-Amazon-EFS-/blob/main/3.png)
 
 
 ### The display of that file’s contents on Instance 2 to verify shared access
-![image](https://github.com/user-attachments/assets/e7cfc612-ac9a-4f41-ad02-532830f3d96b)
+![image](https://github.com/karthickprabakaran/-Setting-up-a-Scalable-file-storage-system-using-Amazon-EFS-/blob/main/4.png)
 
 
 ## RESULT :
